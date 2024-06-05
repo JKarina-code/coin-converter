@@ -11,7 +11,7 @@ Functionality:
 This program presents a menu with different conversion options for the user to choose from.
 
 Menu:
-**Choose a option **
+**Choose an option **
 
 - Dolar =>> Real Brasileño
 - Real Brasileño =>> Dólar
